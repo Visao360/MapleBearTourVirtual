@@ -1,0 +1,70 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_25733EB5_29AF_3BF6_41AA_C9E3F38E6B1C.source = https://api.whatsapp.com/send?phone=5522998918571&text=Ol%C3%A1!!%20Somos%20a%20Maple%20Bear,%20sua%20escola%20bil%C3%ADngue%20de%20verdade.%20Em%20que%20posso%20%20ajudar??
+LinkBehaviour_02F80CB3_2948_4355_41B9_70E15F843E4B.source = https://api.whatsapp.com/send?phone=5522998918571&text=Ol%C3%A1!!%20Somos%20a%20Maple%20Bear,%20sua%20escola%20bil%C3%ADngue%20de%20verdade.%20Em%20que%20posso%20%20ajudar??
+LinkBehaviour_2576DEB5_29AF_3BF6_41C3_F816D0402701.source = https://camposdosgoytacazes.maplebear.com.br/pt/?utm_source=google&utm_medium=cpc&utm_campaign=regional_seach_escolas_sudeste_rj_mg_es&utm_content=search_fev2023&gclid=CjwKCAjwoIqhBhAGEiwArXT7K7pjioM7y5kyjrtnndymSqqWV2wNkWwEfqNrpzF_gHqUPN18FyAgWBoCRDMQAvD_BwE
+LinkBehaviour_02C9AF74_2978_3DD3_41BB_70DDB72E2E3F.source = https://camposdosgoytacazes.maplebear.com.br/pt/?utm_source=google&utm_medium=cpc&utm_campaign=regional_seach_escolas_sudeste_rj_mg_es&utm_content=search_fev2023&gclid=CjwKCAjwoIqhBhAGEiwArXT7K7pjioM7y5kyjrtnndymSqqWV2wNkWwEfqNrpzF_gHqUPN18FyAgWBoCRDMQAvD_BwE
+LinkBehaviour_02B61D67_2948_DDFD_4174_14659487E54C.source = https://www.google.com/maps/place/Maple+Bear+Campos+dos+Goytacazes/@-21.7645642,-41.3291906,17z/data=!3m1!4b1!4m5!3m4!1s0xbdd5239b9e92df:0xadcba45706c39598!8m2!3d-21.7645252!4d-41.3270638?authuser=0
+LinkBehaviour_2571AEB5_29AF_3BF6_41B9_6FDEBE3F02D1.source = https://www.google.com/maps/place/Maple+Bear+Campos+dos+Goytacazes/@-21.7645642,-41.3291906,17z/data=!3m1!4b1!4m5!3m4!1s0xbdd5239b9e92df:0xadcba45706c39598!8m2!3d-21.7645252!4d-41.3270638?authuser=0
+LinkBehaviour_25721EB5_29AF_3BF6_41B5_D87BCD2B9791.source = https://www.instagram.com/maplebearcamposdosgoytacazes/
+LinkBehaviour_01FDD787_2978_4D3D_4167_EB3226B13DD2.source = https://www.instagram.com/maplebearcamposdosgoytacazes/
+
+## Media
+
+### Audio
+audiores_0E65DC43_2948_4336_41B8_5C786D383196.mp3Url = media/audio_0B48D099_29C9_C355_41B5_5D61A98C22FF_pt.mp3
+audiores_324B6666_28D8_4FFE_41C1_BF8EB83AD0D4.mp3Url = media/audio_31B0F4ED_28D8_4CCD_416B_2C5BD23E5A81_pt.mp3
+audiores_0992FABF_29C7_C74E_41C0_149B9D17FD80.mp3Url = media/audio_3600CF6B_29C8_7DF5_41C1_428570B51701_pt.mp3
+audiores_098C6FB1_29C7_DD52_41C2_DE6977556224.mp3Url = media/audio_360A3764_29C9_CDF2_41B4_BE1B7EDAC175_pt.mp3
+audiores_098071ED_29C7_C4CD_41A2_31F01FEB4D73.mp3Url = media/audio_366EB79A_29C9_CD57_41B0_43FAA46A5C28_pt.mp3
+audiores_09971CE6_29C7_DCFF_41C4_409B939F5F2F.mp3Url = media/audio_3787997B_29C8_C5D5_41B6_1B3C05D293D0_pt.mp3
+
+### Title
+panorama_291AE013_236B_AED6_41AE_62D76E98F73E.label = BANHEIRO SALA TÉRREO
+panorama_291A47BD_236B_B1D3_41B2_B00D01ADB7F0.label = CORREDOR 1 ANDAR 2
+panorama_291A8549_236B_96B2_41AE_5F0C733E0EF7.label = CORREDOR 2 ANDAR 2
+panorama_291E2566_2368_717E_41A7_351215C89AFE.label = CORREDOR 3 ANDAR 2
+panorama_2919B312_2368_92D6_41C1_0843DC846166.label = CORREDOR BEBEDOURO
+panorama_291E3187_2368_B1BF_41A7_63DAE07F8FBC.label = ELEVADOR
+panorama_2919E0D8_2368_AF52_41B0_D3B33F297D3E.label = ENTRADA 1
+panorama_291AC5E7_2368_717F_41BA_D627052B13CB.label = ENTRADA 2
+panorama_291E5078_2368_EF52_41AE_FFB0B0CD1645.label = ENTRADA 3
+panorama_291AB267_236B_B37E_41C1_96BA154F2624.label = ESPAÇO MÃO NA MASSA
+panorama_291E1218_2368_92D1_41A0_CF99E617AA60.label = FACHADA
+panorama_2910E762_2368_B176_41B8_234050FD3C70.label = GRAMADO
+panorama_291A478F_2368_91CF_41A8_8555A8767B2F.label = QUADRA
+panorama_2FEF1AE4_2368_9372_41AE_A332800596B1.label = RECEPÇÃO
+panorama_291ADE5B_236B_9356_41B5_19C01B5B8CF6.label = REFEITÓRIO
+panorama_291AA984_236B_91B2_41BC_674837BEE8C6.label = SALA 1 ANDAR 2
+panorama_291ABBD8_236B_F152_41C0_F39D2289233C.label = SALA DE BALLET
+panorama_291AD49C_236B_97D2_419C_53370828B263.label = SALA TÉRREO
+
+## Skin
+
+### Image
+Image_0401F5D1_2948_4CD5_41C1_A628B545A969_mobile.url = skin/Image_0401F5D1_2948_4CD5_41C1_A628B545A969_mobile_pt.png
+Image_0401F5D1_2948_4CD5_41C1_A628B545A969.url = skin/Image_0401F5D1_2948_4CD5_41C1_A628B545A969_pt.png
+Image_0D9B6029_2938_4375_41B3_FAEB7A90EC73_mobile.url = skin/Image_0D9B6029_2938_4375_41B3_FAEB7A90EC73_mobile_pt.png
+Image_0D9B6029_2938_4375_41B3_FAEB7A90EC73.url = skin/Image_0D9B6029_2938_4375_41B3_FAEB7A90EC73_pt.png
+Image_0DD73082_2938_4336_41A7_B3197B276C3C_mobile.url = skin/Image_0DD73082_2938_4336_41A7_B3197B276C3C_mobile_pt.png
+Image_0DD73082_2938_4336_41A7_B3197B276C3C.url = skin/Image_0DD73082_2938_4336_41A7_B3197B276C3C_pt.png
+Image_0DF2B40B_2938_4335_41C1_CB25C07EBE4F_mobile.url = skin/Image_0DF2B40B_2938_4335_41C1_CB25C07EBE4F_mobile_pt.png
+Image_0DF2B40B_2938_4335_41C1_CB25C07EBE4F.url = skin/Image_0DF2B40B_2938_4335_41C1_CB25C07EBE4F_pt.png
+Image_0EABC271_2938_C7D5_41A9_88E79C2DEA9A_mobile.url = skin/Image_0EABC271_2938_C7D5_41A9_88E79C2DEA9A_mobile_pt.png
+Image_0EABC271_2938_C7D5_41A9_88E79C2DEA9A.url = skin/Image_0EABC271_2938_C7D5_41A9_88E79C2DEA9A_pt.png
+Image_0EE98DF3_2938_3CD6_41C0_23F12CE196CE_mobile.url = skin/Image_0EE98DF3_2938_3CD6_41C0_23F12CE196CE_mobile_pt.png
+Image_0EE98DF3_2938_3CD6_41C0_23F12CE196CE.url = skin/Image_0EE98DF3_2938_3CD6_41C0_23F12CE196CE_pt.png
+
+### Label
+Label_081AD5B4_29F8_4D53_41BC_791842CFA828.text = INICIAR TOUR VIRTUAL
+Label_081AD5B4_29F8_4D53_41BC_791842CFA828_mobile.text = INICIAR TOUR VIRTUAL
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Maple Bear Tour Virtual
