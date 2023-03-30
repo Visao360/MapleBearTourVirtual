@@ -3,13 +3,13 @@
 ## Action
 
 ### URL
-LinkBehaviour_3A75A79A_2CA5_350D_41B6_AF09ED4134BF.source = https://api.whatsapp.com/send?phone=5522998918571&text=Ol%C3%A1!!%20Somos%20a%20Maple%20Bear,%20sua%20escola%20bil%C3%ADngue%20de%20verdade.%20Em%20que%20posso%20%20ajudar??
+LinkBehaviour_2227B1B4_3230_8CB0_41A5_1AC7905E494D.source = https://api.whatsapp.com/send?phone=5522998918571&text=Ol%C3%A1!!%20Somos%20a%20Maple%20Bear,%20sua%20escola%20bil%C3%ADngue%20de%20verdade.%20Em%20que%20posso%20%20ajudar??
 LinkBehaviour_02F80CB3_2948_4355_41B9_70E15F843E4B.source = https://api.whatsapp.com/send?phone=5522998918571&text=Ol%C3%A1!!%20Somos%20a%20Maple%20Bear,%20sua%20escola%20bil%C3%ADngue%20de%20verdade.%20Em%20que%20posso%20%20ajudar??
-LinkBehaviour_3A75E79A_2CA5_350D_41BA_C521B45A7C38.source = https://camposdosgoytacazes.maplebear.com.br/pt/?utm_source=google&utm_medium=cpc&utm_campaign=regional_seach_escolas_sudeste_rj_mg_es&utm_content=search_fev2023&gclid=CjwKCAjwoIqhBhAGEiwArXT7K7pjioM7y5kyjrtnndymSqqWV2wNkWwEfqNrpzF_gHqUPN18FyAgWBoCRDMQAvD_BwE
+LinkBehaviour_222741B7_3230_8CBF_41C2_7BDC77537DFF.source = https://camposdosgoytacazes.maplebear.com.br/pt/?utm_source=google&utm_medium=cpc&utm_campaign=regional_seach_escolas_sudeste_rj_mg_es&utm_content=search_fev2023&gclid=CjwKCAjwoIqhBhAGEiwArXT7K7pjioM7y5kyjrtnndymSqqWV2wNkWwEfqNrpzF_gHqUPN18FyAgWBoCRDMQAvD_BwE
 LinkBehaviour_02C9AF74_2978_3DD3_41BB_70DDB72E2E3F.source = https://camposdosgoytacazes.maplebear.com.br/pt/?utm_source=google&utm_medium=cpc&utm_campaign=regional_seach_escolas_sudeste_rj_mg_es&utm_content=search_fev2023&gclid=CjwKCAjwoIqhBhAGEiwArXT7K7pjioM7y5kyjrtnndymSqqWV2wNkWwEfqNrpzF_gHqUPN18FyAgWBoCRDMQAvD_BwE
 LinkBehaviour_02B61D67_2948_DDFD_4174_14659487E54C.source = https://www.google.com/maps/place/Maple+Bear+Campos+dos+Goytacazes/@-21.7645642,-41.3291906,17z/data=!3m1!4b1!4m5!3m4!1s0xbdd5239b9e92df:0xadcba45706c39598!8m2!3d-21.7645252!4d-41.3270638?authuser=0
-LinkBehaviour_3A752798_2CA5_350D_41A1_6C080336812F.source = https://www.google.com/maps/place/Maple+Bear+Campos+dos+Goytacazes/@-21.7645642,-41.3291906,17z/data=!3m1!4b1!4m5!3m4!1s0xbdd5239b9e92df:0xadcba45706c39598!8m2!3d-21.7645252!4d-41.3270638?authuser=0
-LinkBehaviour_3A74A797_2CA5_3503_41B3_45313DE0E0A1.source = https://www.instagram.com/maplebearcamposdosgoytacazes/
+LinkBehaviour_2226F1AF_3230_8D50_41AE_8F46C8DB37BC.source = https://www.google.com/maps/place/Maple+Bear+Campos+dos+Goytacazes/@-21.7645642,-41.3291906,17z/data=!3m1!4b1!4m5!3m4!1s0xbdd5239b9e92df:0xadcba45706c39598!8m2!3d-21.7645252!4d-41.3270638?authuser=0
+LinkBehaviour_2227E1AB_3230_8D50_41BB_47692433DF21.source = https://www.instagram.com/maplebearcamposdosgoytacazes/
 LinkBehaviour_01FDD787_2978_4D3D_4167_EB3226B13DD2.source = https://www.instagram.com/maplebearcamposdosgoytacazes/
 
 ## Media
@@ -55,10 +55,10 @@ Image_0EABC271_2938_C7D5_41A9_88E79C2DEA9A_mobile.url = skin/Image_0EABC271_2938
 Image_0EABC271_2938_C7D5_41A9_88E79C2DEA9A.url = skin/Image_0EABC271_2938_C7D5_41A9_88E79C2DEA9A_pt.png
 Image_3D95743C_2A17_DF8E_41C4_D8FD7B7DB2BB_mobile.url = skin/Image_3D95743C_2A17_DF8E_41C4_D8FD7B7DB2BB_mobile_pt.png
 Image_3D95743C_2A17_DF8E_41C4_D8FD7B7DB2BB.url = skin/Image_3D95743C_2A17_DF8E_41C4_D8FD7B7DB2BB_pt.png
-Image_3E71C82E_2CBB_1B05_419A_9252EE4BB123_mobile.url = skin/Image_3E71C82E_2CBB_1B05_419A_9252EE4BB123_mobile_pt.gif
-Image_3E71C82E_2CBB_1B05_419A_9252EE4BB123.url = skin/Image_3E71C82E_2CBB_1B05_419A_9252EE4BB123_pt.gif
 Image_3EB36396_2CA5_0D05_41AC_FE6C87C5502C_mobile.url = skin/Image_3EB36396_2CA5_0D05_41AC_FE6C87C5502C_mobile_pt.png
 Image_3EB36396_2CA5_0D05_41AC_FE6C87C5502C.url = skin/Image_3EB36396_2CA5_0D05_41AC_FE6C87C5502C_pt.png
+Image_3F7F5E16_3230_9770_4180_6B1054EBDC73_mobile.url = skin/Image_3F7F5E16_3230_9770_4180_6B1054EBDC73_mobile_pt.gif
+Image_3F7F5E16_3230_9770_4180_6B1054EBDC73.url = skin/Image_3F7F5E16_3230_9770_4180_6B1054EBDC73_pt.gif
 
 ## Tour
 
