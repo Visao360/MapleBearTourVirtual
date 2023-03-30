@@ -1,8 +1,8 @@
 {
  "name": "Maple Bear Tour Virtual",
- "theme_color": "#E9100F",
- "display": "fullscreen",
  "background_color": "#E9100F",
+ "display": "fullscreen",
+ "theme_color": "#E9100F",
  "icons": [
   {
    "type": "image/png",
